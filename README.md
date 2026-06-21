@@ -77,4 +77,10 @@ Use a tecla M (padrão) para abrir/fechar a interface gráfica.
 ⚠️ Aviso
 Este script é fornecido apenas para fins educacionais e de entretenimento. O uso de scripts em jogos online pode violar os Termos de Serviço do jogo e resultar em banimento. Use por sua conta e risco.
 
-Desenvolvido com ❤️ pela comunidade XOCU
+Desenvolvido com DeepSeek é ChatGPT
+
+DeepSeek.
+https://chat.deepseek.com/
+
+ChatGPT
+https://chatgpt.com/
